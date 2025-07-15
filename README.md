@@ -20,7 +20,7 @@ A simple RESTful backend API built with Django and Django REST Framework to mana
 ### Installation
 1. Clone the repository:
         ```bash
-       git clone https://github.com/yourusername/django-ecommerce-api.git
+       git clone (https://github.com/SadatLearning121/Django-e-commerce-API)
       cd django-ecommerce-api
    
 2.   Create and activate a virtual environment (optional but recommended):
@@ -77,6 +77,11 @@ POST /api/token/
 Authorization: Bearer <access_token>
 
 3.Refresh token when expired by posting refresh token to /api/token/refresh/.
+
+Made with ❤️ by SadatLearning121
+
+---
+
 
     
 
